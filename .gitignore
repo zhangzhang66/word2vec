@@ -1,4 +1,4 @@
-/Data/*.model
+/*.model
 /.idea
-/Data/*.txt
-/Data/*.xlsx
+/*.txt
+/*.xlsx
